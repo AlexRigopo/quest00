@@ -1,1 +1,17 @@
-asfSDGs
+# Exercise 3: The Fairness Contract
+1. I will use AI when:
+    - I have tried solving a problem myself.
+    - I need to understand why something works.
+    - I want to explore alternative approaches.
+
+2. I will NOT use AI when:
+    - I haven't tried the problem on my own.
+    - I am completing an exam or assessment.
+    - I am still learning fundamental concepts.
+
+3. I know I'm using AI fairly when:
+    - I can explain my code without AI's help.
+    - I could solve a similar problem independently.
+    - I feel more confident in my own understanding.
+
+Alexandros Rigopoulos, 15-11-2025
